@@ -1,4 +1,4 @@
-<img src='git/OrgMaker16.png'>
+<img src='git/OrgMaker-16.png'>
 
 
 **The latest and greatest in 32 Organya Track technology!**
