@@ -35,7 +35,7 @@ Check the Releases for the latest version: [![Releases](https://img.shields.io/g
 
 ## Compiling
 
-You'll need Visual Studio with the `Desktop development with C++` workload. You should also select something along the lines of  `C++ MFC for latest v142 build tools`. After installing, open `source/Org3.sln` and build the project.
+You'll need Visual Studio with the `Desktop development with C++` workload. You should also select something along the lines of  `C++ MFC for latest v142 build tools`. After installing, open `source/Org10.sln` and build the project.
 
 ## License
 
