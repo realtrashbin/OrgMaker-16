@@ -1,6 +1,3 @@
-<img src='git/OrgMaker-16.png'>
-
-
 **The latest and greatest in 32 Organya Track technology!**
 
 **Fork of a Fork of a music sequencer for retro video games**
@@ -17,7 +14,7 @@ As of this being written, [Strultz](https://strultz.github.io/) is working on [O
 
 ## Features
 
-<img src='git/previmg.png' width=60% height=60%>
+<img src='git/OrgMaker-16.png' width=60% height=60%>
 
 16 Melody Tracks with 100 Waveforms to select from, along with 16 Dram Tracks with 46 Dram Samples to choose from.
 
