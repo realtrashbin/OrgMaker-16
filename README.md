@@ -19,7 +19,7 @@ As of this being written, [Strultz](https://strultz.github.io/) is working on [O
 
 <img src='git/previmg.png' width=60% height=60%>
 
-16 Melody Tracks with 100 Waveforms to select from, along with 16 Dram Tracks with 43 Dram Samples to choose from.
+16 Melody Tracks with 100 Waveforms to select from, along with 16 Dram Tracks with 46 Dram Samples to choose from.
 
 Compatable with all ORG files.
 
