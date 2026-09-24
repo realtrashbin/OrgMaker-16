@@ -1,5 +1,5 @@
 >[!NOTE]
->As of OrgMaker16 V0.1.0 this is no longer being updated.
+>As of OrgMaker16 V0.1.0 this branch is no longer being updated.
 >This means it contains unfixed bugs that you can run into and newer features are not available.
 
 <img src='git/OrgMaker16.png'>
